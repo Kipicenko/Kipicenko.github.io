@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "img/work1.jpg",
+        "title": "Верстка сайта АppLab",
+        "class": "animation__left",
+        "route": "./page/work/AppLab/AppLab.html"
+    },
+    {
+        "id": 2,
+        "image": "img/work22.jpg",
+        "title": "Верстка сайта OKSY-G",
+        "class": "animation__right",
+        "route": "./page/work/OKSY-G/OKSY.html"
+    },
+    {
+        "id": 3,
+        "image": "img/work3.jpg",
+        "title": "Интернет магазин react-pizza (Сделан по курсу)",
+        "class": "animation__left",
+        "route": "./page/work/reactpizza/reactpizza.html"
+    },
+    {
+        "id": 4,
+        "image": "img/work4.jpg",
+        "title": "Простой слайдер на React.js",
+        "class": "animation__right ",
+        "route": "./page/work/reactslider/reactslider.html"
+    }
+]

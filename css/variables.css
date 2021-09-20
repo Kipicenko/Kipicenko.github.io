@@ -1,0 +1,20 @@
+:root {
+	--white-color: #fff;
+	--black-color: #000;
+	--smoky-white: #f1f1f1;
+	--signal-black: #313131;
+	--light-telegrey: #cbcbcb;
+	--red-dawn: #ff7373;
+
+	
+	--font-family: "OpenSans", sans-serif;
+	--small-opensans-light: 300 16px / 25px var(--font-family);
+	--middle-opensans-light: 300 20px / 25px var(--font-family);
+	--large-opensans-light: 300 48px / 50px var(--font-family);
+	--small-opensans-semibold: 600 16px / 20px var(--font-family);
+	--middle-opensans-semibold: 600 20px / 15px var(--font-family);
+	--small-opensans-regular: 400 16px / 25px var(--font-family);
+	--middle-opensans-regular: 400 20px / 25px var(--font-family);
+	--large-opensans-regular: 400 48px / 50px var(--font-family);
+	--middle-opensans-bold: 700 42px / 50px var(--font-family);
+}

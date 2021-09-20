@@ -1,0 +1,22 @@
+
+.work {
+    width: 100%;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.work__title {
+    font: 300 36px / 50px var(--font-family);
+    color: var(--white-color);
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.work__video {
+    width: 100%;
+}
+
+.work__video video {
+    width: 100%;
+    object-fit: cover;
+}

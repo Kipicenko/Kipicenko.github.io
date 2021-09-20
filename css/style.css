@@ -1,0 +1,20 @@
+@import "normalize.css";
+@import "fonts.css";
+@import "variables.css";
+@import "global.css";
+@import "overall.css";
+
+/* Home page */
+
+@import "./vendor/checkbox.min.css";
+@import "./vendor/animate.css";
+@import "./components/header.css";
+@import "./components/hero.css";
+@import "./components/portfolio.css";
+@import "./components/myskills.css";
+@import "./components/contacts.css";
+@import "./components/footer.css";
+
+/* AppLab page */
+
+@import "./components/work.css";
